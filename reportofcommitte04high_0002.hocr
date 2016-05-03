@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./reportofcommitte04high_0002.png"; bbox 0 0 1794 2982; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 496 2040 1220 2115">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 496 2040 1220 2115">
+     <span class='ocr_line' id='line_1_1' title="bbox 496 2040 1220 2115; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 955 2040 1220 2093; x_wconf 52' lang='grc' dir='ltr'>ΖΗΕΞΣ</span> <span class='ocrx_word' id='word_1_2' title='bbox 692 2041 932 2093; x_wconf 58' lang='grc' dir='ltr'>ΖΞέΟΖ</span> <span class='ocrx_word' id='word_1_3' title='bbox 496 2040 668 2115; x_wconf 33' lang='lat' dir='ltr'>mg&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 528 976 1189 1957">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 528 976 1189 1957">
+     <span class='ocr_line' id='line_1_2' title="bbox 528 976 1189 1957; textangle 270"><span class='ocrx_word' id='word_1_4' title='bbox 528 976 1189 1957; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1332 24 1643 77">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1332 24 1643 77">
+     <span class='ocr_line' id='line_1_3' title="bbox 1332 24 1643 77; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 1518 30 1643 77; x_wconf 50' lang='lat' dir='ltr'>ffiww</span> <span class='ocrx_word' id='word_1_6' title='bbox 1332 24 1450 73; x_wconf 60' lang='lat' dir='ltr'>&lt;QG</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
